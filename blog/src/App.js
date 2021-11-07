@@ -2,14 +2,19 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+
+  let posts = '판교 맛집 리스트'
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          TOY PROJECT
-        </p>
-      </header>
+      <div className="black-nav">
+        <div>Dev Blog</div>
+      </div>
+      <div className="list">
+        <h4> { posts } </h4>
+        <p>11월 7일 발행</p>
+        <hr/>
+      </div>
     </div>
   );
 }
