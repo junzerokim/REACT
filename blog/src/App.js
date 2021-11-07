@@ -12,7 +12,7 @@ function App() {
       </div>
       <div className="list">
         <h4> { posts } </h4>
-        <p>test</p>
+        <p>test complete</p>
         <hr/>
       </div>
     </div>
