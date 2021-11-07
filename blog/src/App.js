@@ -14,17 +14,17 @@ function App() {
       </div>
       <div className="list">
         <h4> { 글제목[0] } </h4>
-        <p>11월 7일 발행</p>
+        <p>11/7</p>
         <hr/>
       </div>
       <div className="list">
         <h4> { 글제목[1] } </h4>
-        <p>11월 7일 발행</p>
+        <p>11/1</p>
         <hr/>
       </div>
       <div className="list">
         <h4> { 글제목[2] } </h4>
-        <p>11월 7일 발행</p>
+        <p>10/28</p>
         <hr/>
       </div>
     </div>
