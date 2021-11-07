@@ -12,7 +12,7 @@ function App() {
       </div>
       <div className="list">
         <h4> { posts } </h4>
-        <p>11월 7일 발행</p>
+        <p>test</p>
         <hr/>
       </div>
     </div>
